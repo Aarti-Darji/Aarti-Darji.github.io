@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 3rd Year Undergraduate at University of Texas at Arlington
 
 profile:
   align: right
