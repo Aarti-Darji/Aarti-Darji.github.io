@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented poster at Texas Health Informatics Alliance Conferecne 2023! :sparkles: :smile:
+Presented poster at Texas Health Informatics Alliance Conference 2023! :sparkles: :smile:

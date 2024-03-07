@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Award 1st Place for the TExBioMed Summer Program 2023.
+Awarded 1st Place for the TExBioMed Summer Program 2023.
