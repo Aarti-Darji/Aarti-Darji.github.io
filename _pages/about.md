@@ -20,7 +20,7 @@ Hello! I'm an 3rd year undergraduate majoring in Data Science with a concentrati
 
 Another area I'm interested in is medical image analysis via deep learning frameworks. I've worked with Histopathology and Multiplexed Immunofluorescence by compressing them into latent space representations and comparing these different modalities to find similarities in morphological structure and visualize protein expression. 
 
-I've been fortunate to be be advised by [Jacob Luber](https://luberlab.org/) and Cesar Torres(https://hybridatelier.uta.edu/).
+I've been fortunate to be be advised by [Jacob Luber](https://luberlab.org/) and [Cesar Torres](https://hybridatelier.uta.edu/).
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
