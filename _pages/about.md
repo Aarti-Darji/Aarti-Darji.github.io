@@ -13,7 +13,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hello! I'm a 3rd year undergraduate majoring in Data Science with a concentration in Psychology and minor in Mathematics at The University of Texas at Arlington. My interdsiciplinary background has introduced me to a diverse range of research areas. I'm particularly interested in designing on-body sensors and wearables to measure different bio-physiological responses. I've also been interested in fabricating silicone textures that can enhance a user's haptic perception when interacting with user interfaces. 
