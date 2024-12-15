@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 3rd Year Undergraduate at University of Texas at Arlington
+subtitle: 4th Year Undergraduate at University of Texas at Arlington
 
 profile:
   align: right
@@ -16,7 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a 4th year undergraduate majoring in Data Science with a concentration in Psychology and minor in Mathematics at The University of Texas at Arlington. My interdsiciplinary background has introduced me to a diverse range of research areas. I'm particularly interested in designing on-body sensors and wearables to measure different bio-physiological responses. My research interests include mutlimodal representation learning for multi-omics and non-omics datasets for retrieval and fusions tasks. I'm also interested in developing visualization tools single cell datasets for exploration and interpretation with the support of Agentic AI.
+Hello! I'm a 4th year undergraduate majoring in Data Science with a concentration in Psychology and minor in Mathematics at The University of Texas at Arlington. My interdsiciplinary background has introduced me to a diverse range of research areas. My research interests include mutlimodal representation learning for multi-omics and non-omics datasets for retrieval and fusions tasks. I'm also interested in developing visualization tools single cell datasets for exploration and interpretation with the support of Agentic AI.
+
+My previous research experience involved designing on-body sensors to measure different bio-physiological responses and silicone composite layers to motivate unique gestures. 
 
 I've been fortunate to be advised by [Jacob Luber](https://luberlab.org/), [Cesar Torres](https://hybridatelier.uta.edu/) and [Nils Gehlenborg](https://hidivelab.org/).
 
