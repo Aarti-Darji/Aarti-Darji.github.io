@@ -16,11 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a 3rd year undergraduate majoring in Data Science with a concentration in Psychology and minor in Mathematics at The University of Texas at Arlington. My interdsiciplinary background has introduced me to a diverse range of research areas. I'm particularly interested in designing on-body sensors and wearables to measure different bio-physiological responses. I've also been interested in fabricating silicone textures that can enhance a user's haptic perception when interacting with user interfaces. 
+Hello! I'm a 4th year undergraduate majoring in Data Science with a concentration in Psychology and minor in Mathematics at The University of Texas at Arlington. My interdsiciplinary background has introduced me to a diverse range of research areas. I'm particularly interested in designing on-body sensors and wearables to measure different bio-physiological responses. My research interests include mutlimodal representation learning for multi-omics and non-omics datasets for retrieval and fusions tasks. I'm also interested in developing visualization tools single cell datasets for exploration and interpretation with the support of Agentic AI.
 
-Another area I'm interested in is medical image analysis via deep learning frameworks. I've worked with Histopathology and Multiplexed Immunofluorescence images by compressing them into latent space representations and comparing these different modalities to find similarities in morphological structure and visualize protein expression. 
-
-I've been fortunate to be advised by [Jacob Luber](https://luberlab.org/) and [Cesar Torres](https://hybridatelier.uta.edu/).
+I've been fortunate to be advised by [Jacob Luber](https://luberlab.org/), [Cesar Torres](https://hybridatelier.uta.edu/) and [Nils Gehlenborg](https://hidivelab.org/).
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
