@@ -8,7 +8,7 @@ middle_name: C.
 last_name: Darji
 email: acd9300@mavs.uta.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-Aarti Darji's Website
+  Aarti Darji's Website
 footer_text: #
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -69,7 +69,7 @@ github_username: Aarti-Darji
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: https://www.linkedin.com/in/aarti-darji # your LinkedIn user name
+linkedin_username: aarti-darji # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: mAe4XaAAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
