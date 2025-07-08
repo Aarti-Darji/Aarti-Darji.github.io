@@ -13,7 +13,12 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true
 social: false # includes social icons at the bottom of the page
+_styles: >
+    p + ul {
+        margin-top: -10px;
+    }
 ---
 
 Hello! I recently graduated from The University of Texas at Arlington with my major in Data Science with a concentration in Psychology and a minor in Mathematics . My interdsiciplinary background has introduced me to a diverse range of research areas. My research interests include mutlimodal representation learning for multi-omics and non-omics datasets for retrieval and fusions tasks. I'm also interested in developing visualization tools single cell datasets for exploration and interpretation with the support of Agentic AI.
