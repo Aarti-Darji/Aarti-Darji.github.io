@@ -2,14 +2,18 @@
 layout: page
 title: research
 permalink: /research/
-description: Some research and other related projects I've been working on. 
+description: 
 nav: true
 nav_order: 3
 display_categories: [work]
 horizontal: false
 
 ---
-
+<style>
+  h1.page-title {
+    display: none;
+  }
+</style>
 <!-- Custom layout: HTML only -->
 
 <style>
@@ -59,7 +63,7 @@ horizontal: false
 
 <div class="project-section">
 
-  <h2>Multimodal pathology image search between H&E slides and multiplexed immunofluorescent images  (PPG)</h2>
+  <h3>Multimodal pathology image search between H&E slides and multiplexed immunofluorescent images </h3>
 
   <img src="/assets/img/publication_preview/multimodal.png" alt="Search Results Diagram">
 
