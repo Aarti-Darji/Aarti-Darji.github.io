@@ -54,26 +54,20 @@ horizontal: false
 
 <h1>Research</h1>
 
-<p>
-  Software alone can only do so much—I believe combining software with digital fabrication’s potential to rapidly produce customizable tools will allow us to solve many more of the problems within our society. This is why I seek to combine digital fabrication with sensing to create interactive physical interfaces, aid in personal health monitoring, and/or design tools to allow people to better observe the physical world around us.
-</p>
 
-<p>As an undergraduate, I have conducted research in three main areas: sensing, digital fabrication, and synthetic biology.</p>
+<p>As an undergraduate, I have conducted research in two main areas: computational biology and human-computer interaction.</p>
 
 <div class="project-section">
-  <h2>Sensing</h2>
 
-  <h3>Multi-Channel Facial Photoplethysmography (PPG)</h3>
+  <h2>Multimodal pathology image search between H&E slides and multiplexed immunofluorescent images  (PPG)</h2>
 
-  <img src="/assets/images/ppg-diagram.png" alt="PPG Device Diagram">
+  <img src="/assets/img/publication_preview/multimodal.png" alt="Search Results Diagram">
 
-  <p><strong>Description:</strong> The face provides a very unique opportunity for performing physiological sensing using wearables and camera-based systems. Measuring the vascular network in the face may enable disease diagnosis and continuous monitoring...</p>
+  <p><strong>Description:</strong> We present an approach for multimodal pathology image search, using dynamic time warping (DTW) on Variational Autoencoder (VAE) latent space that is fed into a ranked choice voting scheme to retrieve multiplexed immunofluorescent imaging (mIF) that is most similar to a query H&E slide. Through training the VAE and applying DTW, we align and compare mIF and H&E slides. Our method improves differential diagnosis and therapeutic decisions by integrating morphological H&E data with immunophenotyping from mIF, providing clinicians a rich perspective of disease states. This facilitates an understanding of the spatial relationships in tissue samples and could revolutionize the diagnostic process, enhancing precision and enabling personalized therapy selection. Our technique demonstrates feasibility using colorectal cancer and healthy tonsil samples. An exhaustive ablation study was conducted on a search engine designed to explore the correlation between multiplexed Immunofluorescence (mIF) and Hematoxylin and Eosin (H&E) staining, in order to validate its ability to map these distinct modalities into a unified vector space. Despite extreme class imbalance, the system demonstrated robustness and utility by returning similar results across various data features, which suggests potential for future use in multimodal histopathology data analysis.</p>
 
   <p><strong>Individual contributions:</strong></p>
   <ul>
-    <li>Helped design breakouts for our optical sensors</li>
-    <li>Set up optical sensors to get a photoplethysmography (PPG) waveform</li>
-    <li>Developed firmware on an MSP430 to control sampling across devices/sensors</li>
+    <li>Trained VAE on NVIDIA GPUs to obtain latent vectors for image patches.</li>
   </ul>
 
   <div class="btn-container">
