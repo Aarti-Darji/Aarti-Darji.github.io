@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
 description: Some research and other related projects I've been working on. 
-nav: false
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
