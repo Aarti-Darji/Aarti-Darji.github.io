@@ -79,4 +79,21 @@ horizontal: false
     <a class="btn-outline-primary" href="/assets/papers/ppg-paper.pdf" target="_blank">Paper</a>
     <a class="btn-outline-danger" href="https://doi.org/10.xxxxx" target="_blank">DOI</a>
   </div>
+
+  <h3>Trace to Touch: Eliciting Gestures from Capacitive Touch Electrodes </h3>
+
+  <img src="/assets/img/publication_preview/tracetotouch.png" alt="Search Results Diagram">
+
+  <p><strong>Description:</strong> Capacitive touch relies on electrodes to detect and interpret touch gestures. These electrodes are conventionally designed as rigid, grid-like structures, optimized for manufacturing efficiency. However, the advent of diverse conductive materials opens new avenues for enhancing the way electrodes are designed. In this paper, we develop a textile-silicone sensor composite using embedded conductive yarn as a capacitive touch electrode. By deviating from the grid pattern, we explore how alternative patterns can inspire novel, playful, and expressive gestures. We describe our design process for conceptualizing gestures from electrode design principles and iteratively test gesture detection using an off-the-shelf CNN model. Our approach in developing a textile-silicone sensor with unique electrode designs enables the development of creative, comfortable and customizable haptic interfaces.
+  </p>
+
+  <p><strong>Individual contributions:</strong></p>
+  <ul>
+    <li>Trained VAE on NVIDIA GPUs to obtain latent vectors for image patches.</li>
+  </ul>
+
+  <div class="btn-container">
+    <a class="btn-outline-primary" href="/assets/papers/ppg-paper.pdf" target="_blank">Paper</a>
+    <a class="btn-outline-danger" href="https://doi.org/10.xxxxx" target="_blank">DOI</a>
+  </div>
 </div>
