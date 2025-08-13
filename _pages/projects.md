@@ -63,6 +63,25 @@ horizontal: false
 <p>As an undergraduate, I have conducted research in two main areas: computational biology and human-computer interaction.</p>
 
 <div class="project-section">
+  <h3>LLM-Supported Exploration of Highly Multiplexed Imaging </h3>
+
+  <img src="/assets/img/publication_preview/overview.png" alt="Search Results Diagram">
+
+  <p><strong>Description:</strong> Multiplexed immunofluorescence (mIF) imaging enables visualization of a large number of biomarkers simultaneously, offering high-resolution insight into spatial tissue architecture and immune landscapes. Current visualization tools make it hard for non-expert users to interpret biological relevance of diverse biomarkers and the volume of data makes it difficult to locate regions containing patterns of interest within the tissue. To address this challenge, we present an approach to assist users in exploring mIF datasets through the use of a natural language-driven multi-agent system. This agentic system interprets user queries, retrieves relevant biomarker information, and identifies spatial regions relevant to the user query within the imaging data. By integrating SQL-based querying, dynamic tool execution, and contextual reasoning, our system allows users to explore biomarker relationships, highlight spatially distinct regions, and dynamically update views based on natural language input. Our implementation builds on Vitessce (https://vitessce.io), a visual integration tool for spatial and single-cell datasets, and can be deployed as an interactive widget within a Jupyter notebook. We demonstrate our approach on multiple mIF datasets spanning diverse tissue and cancer types, demonstrating its adaptability and utility in discovering spatial patterns and anomalies. By reducing the effort required to navigate and interpret mIF datasets, our approach has the potential to aid researchers in quickly identifying regions of interest for downstream segmentation tasks and exploratory analysis.
+  </p>
+
+  <p><strong>Individual contributions:</strong></p>
+  <ul>
+    <li>Designed and implemented the chatbot interface for Vitessce.</li>
+    <li>Created a multi-agent orchestration layer for biomarker and ROI search.</li>
+    <li>Integrated few-shot learning and RAG for accurate retrieval and structured output.</li>
+
+  </ul>
+
+  <div class="btn-container">
+    <a class="btn-outline-primary" href="/assets/papers/ppg-paper.pdf" target="_blank">Paper</a>
+    <a class="btn-outline-danger" href="https://doi.org/10.xxxxx" target="_blank">DOI</a>
+  </div>
 
   <h3>Multimodal pathology image search between H&E slides and multiplexed immunofluorescent images </h3>
 
@@ -72,7 +91,9 @@ horizontal: false
 
   <p><strong>Individual contributions:</strong></p>
   <ul>
-    <li>Trained VAE on NVIDIA GPUs to obtain latent vectors for image patches.</li>
+    <li>Developed and trained the VAE on HPC clusters to generate patch-level latent vectors.</li>
+    <li>Implemented DTW-based alignment and ranked-choice retrieval pipeline.</li>
+    <li>Conducted validation and ablation studies to assess robustness despite extreme class imbalance.</li>
   </ul>
 
   <div class="btn-container">
@@ -89,7 +110,9 @@ horizontal: false
 
   <p><strong>Individual contributions:</strong></p>
   <ul>
-    <li>Trained VAE on NVIDIA GPUs to obtain latent vectors for image patches.</li>
+    <li>Fabricated layered silicone composites with unique electrode designs.</li>
+    <li>Collected and processed gesture datasets for CNN-based classification.</li>
+    <li>Achieved 97% accuracy in gesture recognition from sensor heatmaps.</li>
   </ul>
 
   <div class="btn-container">
