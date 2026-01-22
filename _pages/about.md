@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UT Arlington Data Science '25
+subtitle: NYU Courant MS CS '27
 
 profile:
   align: right
