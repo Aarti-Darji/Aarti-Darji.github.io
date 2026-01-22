@@ -20,9 +20,9 @@ _styles: >
     }
 ---
 
-Hello! I recently graduated from The University of Texas at Arlington with my major in Data Science with a concentration in Psychology and a minor in Mathematics. My interdsiciplinary background has introduced me to a diverse range of research areas. My current research interests focus on multimodal representation learning for both omics (e.g., transcriptomics, proteomics) and non-omics (e.g., imaging, clinical) datasets for retrieval, fusion, and cross-modality alignment tasks. I'm also interested in developing visualization tools single cell datasets for exploration and interpretation with the support of Agentic AI.
+Hello! I am an MS in Computer Science student at NYU Courant (Spring 2026). I hold a BS in Data Science from the University of Texas at Arlington, where I concentrated in Psychology and minored in Mathematics. My current research interests focus on multimodal representation learning and biomedical data science. I am particularly interested in leveraging self-supervised and contrastive learning to integrate omics (e.g., transcriptomics, proteomics) with non-omics (e.g., imaging, clinical) datasets for retrieval, fusion, and cross-modality alignment tasks. I'm also interested in developing visualization tools for single cell datasets with the support of pre-trained models.
 
-My previous research experience involved designing on-body sensors to measure different bio-physiological responses and silicone composite layers to motivate unique gestures. 
+My interdsiciplinary background has introduced me to a diverse range of research areas. My previous research experiences involved designing on-body sensors to measure different bio-physiological responses and silicone composite layers to motivate unique gestures. 
 
 I've been fortunate to be advised by [Jacob Luber](https://luberlab.org/), [Cesar Torres](https://hybridatelier.uta.edu/) and [Nils Gehlenborg](https://hidivelab.org/).
 
