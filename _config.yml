@@ -184,6 +184,9 @@ latest_posts:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+# Include posts dated in the future (otherwise GitHub Pages omits them until that calendar day).
+future: true
+
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge

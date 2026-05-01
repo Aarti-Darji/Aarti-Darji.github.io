@@ -2,6 +2,7 @@
 layout: default
 permalink: /blog/
 title: blog
+description: Neural differential equations and longitudinal medical imaging
 nav: true
 nav_order: 1
 pagination:
@@ -140,6 +141,9 @@ pagination:
         {% endif %}
       </h3>
       <p>{{ post.description }}</p>
+      {% if post.excerpt and post.redirect == blank %}
+        <div class="post-excerpt text-muted">{{ post.excerpt | strip_html | truncatewords: 70, " …" }}</div>
+      {% endif %}
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
