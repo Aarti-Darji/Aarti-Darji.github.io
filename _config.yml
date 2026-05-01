@@ -192,6 +192,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
+  transliterated_header_ids: true
   syntax_highlighter_opts:
     css_class: "highlight"
     span:

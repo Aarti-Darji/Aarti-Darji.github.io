@@ -1,0 +1,24 @@
+{% comment %}
+  Manual TOC (same idea as distill): page.toc is a list of { name, subsections?: [{ name }] }.
+  Targets explicit heading ids defined in the post with {: #slug } so links always work.
+{% endcomment %}
+<nav id="table-of-contents" class="post-manual-toc mb-3" aria-label="Table of contents">
+  <h3 class="mb-2">Contents</h3>
+  {% for section in page.toc %}
+    {% if section.name %}
+      <div class="mb-1">
+        <a href="#{{ section.name | slugify: 'latin' }}">{{ section.name }}</a>
+      </div>
+    {% endif %}
+    {% if section.subsections %}
+      <ul class="mb-3 pl-3">
+        {% for subsection in section.subsections %}
+          <li>
+            <a href="#{{ subsection.name | slugify: 'latin' }}">{{ subsection.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endfor %}
+</nav>
+<hr class="mb-4">
