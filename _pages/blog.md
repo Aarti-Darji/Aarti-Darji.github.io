@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: blog
 description: Neural differential equations and longitudinal medical imaging
-nav: true
+nav: false
 nav_order: 1
 pagination:
   enabled: true
