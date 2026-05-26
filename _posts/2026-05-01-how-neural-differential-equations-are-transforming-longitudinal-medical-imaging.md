@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Neural Differential Equations Are Transforming Longitudinal Medical Imaging
+title: A deep dive into the theoretical mathematics behind Neural ODES, SDEs and Flow Matching 
 date: 2026-05-01 12:00:00-0500
 description: Neural ODEs and neural differential equations offer continuous-time models that align naturally with irregular follow-up and disease progression in longitudinal medical imaging.
 tags: neural-odes medical-imaging machine-learning longitudinal-data
