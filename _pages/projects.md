@@ -95,7 +95,6 @@ nav_order: 4
   </ul>
 
   <div class="btn-container">
-    <a class="btn-outline-primary" href="/publications/#darji2025askandreveal" target="_blank">Poster (ISMB 2025)</a>
     <a class="btn-outline-secondary" href="https://vitessce.io" target="_blank" rel="noopener noreferrer">Vitessce</a>
   </div>
 </div>
@@ -117,7 +116,6 @@ nav_order: 4
 
   <div class="btn-container">
     <a class="btn-outline-primary" href="https://arxiv.org/abs/2306.06780" target="_blank" rel="noopener noreferrer">Paper</a>
-    <a class="btn-outline-secondary" href="/publications/#darji2024integrated" target="_blank">Poster (ISMB 2024)</a>
   </div>
 </div>
 
