@@ -26,6 +26,8 @@ My interdsiciplinary background has introduced me to a diverse range of research
 
 I've been fortunate to be advised by [Jacob Luber](https://luberlab.org/), [Cesar Torres](https://hybridatelier.uta.edu/) and [Nils Gehlenborg](https://hidivelab.org/).
 
+You can find a full timeline of my research experience, coursework, and skills on my [CV](/cv/), project write-ups on my [research](/research/) page, and my papers, posters, and talks on [publications](/publications/).
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
