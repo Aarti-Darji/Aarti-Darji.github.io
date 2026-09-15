@@ -142,28 +142,64 @@
       "publisher": "IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) 2024",
       "releaseDate": "2024-07-01",
       "url": "https://arxiv.org/abs/2306.06780",
-      "summary": "Co-first author, with M. D. Saurav, Mohammad S. Nasr, Jai Prakash Veerla, Parisa Boodaghi Malidarreh, Michael Robben, Helen H. Shang, and Jacob M. Luber."
+      "summary": "Co-first author, with M. D. Saurav, Mohammad S. Nasr, Jai Prakash Veerla, Parisa Boodaghi Malidarreh, Michael Robben, Helen H. Shang, and Jacob M. Luber.",
+      "type": "Paper"
     },
     {
       "name": "SpatialVisVR: An Immersive, Multiplexed Medical Image Viewer With Contextual Similar-Patient Search",
       "publisher": "IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) 2024",
       "releaseDate": "2024-07-01",
       "url": "https://arxiv.org/abs/2401.02882",
-      "summary": "With Jai Prakash Veerla, Partha Sai Guttikonda, Amir Hajighasemi, Jillur Rahman Saurav, Cody T. Reynolds, Mohamed Mohamed, Mohammad S. Nasr, Helen H. Shang, and Jacob M. Luber."
+      "summary": "With Jai Prakash Veerla, Partha Sai Guttikonda, Amir Hajighasemi, Jillur Rahman Saurav, Cody T. Reynolds, Mohamed Mohamed, Mohammad S. Nasr, Helen H. Shang, and Jacob M. Luber.",
+      "type": "Paper"
     },
     {
       "name": "Trace to Touch: Eliciting Gestures from Capacitive Touch Electrodes",
       "publisher": "ACM Conference on Creativity & Cognition (C&C) 2024 — Extended Abstract",
       "releaseDate": "2024-06-01",
       "url": "",
-      "summary": "With Gunnika Kapoor and Cesar Torres."
+      "summary": "With Gunnika Kapoor and Cesar Torres.",
+      "type": "Paper"
     },
     {
       "name": "Sentura: Understanding the Cognitive Affordances of Silicone Microtextures in Tangible User Interface Design",
       "publisher": "ACM Conference on Creativity & Cognition (C&C) 2024 — Extended Abstract",
       "releaseDate": "2024-06-01",
       "url": "",
-      "summary": "With Gunnika Kapoor, Marisa N. Fernandez, and Cesar Torres."
+      "summary": "With Gunnika Kapoor, Marisa N. Fernandez, and Cesar Torres.",
+      "type": "Paper"
+    },
+    {
+      "name": "Revolutionizing Cancer Research with AI: Health Data Science Lab, UT Arlington",
+      "publisher": "XRDS: Crossroads, The ACM Magazine for Students, 30(4), 64–65",
+      "releaseDate": "2024-06-01",
+      "url": "",
+      "summary": "Invited article on computational pathology research at the Health Data Science Lab.",
+      "type": "Paper"
+    },
+    {
+      "name": "LLM-Supported Exploration and Analysis of 3D-Microscopy Imaging",
+      "publisher": "Bio+MedVis Challenge @ IEEE VIS 2024 — Talk & Poster",
+      "releaseDate": "2024-10-01",
+      "url": "",
+      "summary": "With Eric Moerth, Morgan Turner, David Kouril, Jacob Luber, and Nils Gehlenborg.",
+      "type": "Talk"
+    },
+    {
+      "name": "Integrated Search Framework for Histopathology: From H&E to Multiplexed Immunofluorescence",
+      "publisher": "Intelligent Systems for Molecular Biology (ISMB) 2024 — Poster",
+      "releaseDate": "2024-05-01",
+      "url": "",
+      "summary": "Co-first author, with Amir Hajighasemi, M. D. Saurav, Mohammad S. Nasr, Jai Prakash Veerla, Parisa Boodaghi Malidarreh, Michael Robben, Helen H. Shang, and Jacob M. Luber.",
+      "type": "Poster"
+    },
+    {
+      "name": "Ask and Reveal: Natural Language-Driven Analysis of Multiplexed Immunofluorescence Imaging",
+      "publisher": "Intelligent Systems for Molecular Biology (ISMB) 2025 — Poster",
+      "releaseDate": "2025-07-01",
+      "url": "",
+      "summary": "With Eric Mörth, Morgan Turner, David Kouřil, and Nils Gehlenborg.",
+      "type": "Poster"
     }
   ],
   "awards": [
