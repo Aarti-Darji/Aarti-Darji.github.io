@@ -67,19 +67,6 @@ nav_order: 4
 <p>My research sits at the intersection of computational biology and human-computer interaction. I'm interested in multimodal representation learning for biomedical data&mdash;integrating imaging, omics, and clinical modalities for retrieval, fusion, and natural-language-driven exploration&mdash;and, earlier on, in how novel sensor and material design can elicit new kinds of tangible interaction. Below are a few projects from this work; see <a href="/publications/">publications</a> for the full list of papers, posters, and talks, and <a href="/cv/">CV</a> for the complete research timeline.</p>
 
 <div class="project-section">
-  <h3>Diffusion MRI Analysis of Gulf War Illness in Veterans</h3>
-  <p class="project-meta">Research Assistant I, UTHealth Houston &middot; Advisor: Dr. Deborah Little &middot; June 2025&ndash;present</p>
-
-  <p><strong>Description:</strong> Gulf War Illness (GWI) is a chronic, multi-symptom condition affecting veterans of the 1990&ndash;91 Gulf War, with poorly understood structural and connectivity correlates in the brain. I curate and maintain raw and processed MRI data for ongoing GWI studies and run diffusion MRI analyses with FSL and FreeSurfer to surface structural and white-matter tract-based differences that can inform how the condition is characterized and studied.</p>
-
-  <p><strong>Contributions:</strong></p>
-  <ul>
-    <li>Curated and QC'd raw and processed MRI datasets across the study cohort.</li>
-    <li>Ran diffusion MRI (dMRI) analysis pipelines in FSL and FreeSurfer for structural and tract-based insights.</li>
-  </ul>
-</div>
-
-<div class="project-section">
   <h3>LLM-Supported Exploration of Highly Multiplexed Imaging</h3>
   <p class="project-meta">Undergraduate Research Intern, HIDIVE Lab, Harvard Medical School &middot; Advisor: Dr. Nils Gehlenborg &middot; June 2024&ndash;May 2025</p>
 
