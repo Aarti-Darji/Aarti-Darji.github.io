@@ -73,6 +73,17 @@
   ],
   "work": [
     {
+      "name": "New York University",
+      "position": "Graduate Research Assistant — Self-Supervised Learning for Mammography Imaging",
+      "url": "",
+      "startDate": "2026-01-01",
+      "summary": "Advisor: Dr. Yiqiu Shen",
+      "highlights": [
+        "Fine-tuned mammogram foundation models on NYU mammograms with breast-level cancer labels using a custom HDF5 dataloader, stratified sampling, and data augmentations.",
+        "Conducted a hyperparameter sweep across learning rates, sampling ratios, and batch size configurations for pre-trained foundation models."
+      ]
+    },
+    {
       "name": "UTHealth Houston",
       "position": "Research Assistant I — Analyzing Gulf War Illness in Veterans",
       "url": "",
